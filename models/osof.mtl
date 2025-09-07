@@ -1,0 +1,86 @@
+newmtl 1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka 1_diff.png
+map_Kd 1_diff.png
+map_d 1_diff.png
+
+newmtl Chandle1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 255
+
+map_Ka Chandle1_diff.png
+map_Kd Chandle1_diff.png
+map_d Chandle1_diff.png
+
+map_Bump Chandle1_nmap.png
+
+map_Ns Chandle1_spec.png
+
+newmtl Mag1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 255
+
+map_Ka Mag1_diff.png
+map_Kd Mag1_diff.png
+map_d Mag1_diff.png
+
+map_Bump Mag1_nmap.png
+
+map_Ns Mag1_spec.png
+
+newmtl CarryHandle1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 255
+
+map_Ka CarryHandle1_diff.png
+map_Kd CarryHandle1_diff.png
+map_d CarryHandle1_diff.png
+
+map_Bump CarryHandle1_nmap.png
+
+map_Ns CarryHandle1_spec.png
+
+newmtl Shell1Mtl
+Material Color
+Ka 0.91575 0.708298 0.190463
+Kd 0.91575 0.708298 0.190463
+Ks 0.6105 0.472199 0.126975 
+
+d 1
+
+Ns 255
+
+map_Ka Shell1_diff.png
+map_Kd Shell1_diff.png
+map_d Shell1_diff.png
+
+map_Bump Shell1_nmap.png
+
+map_Ns Shell1_spec.png
+
